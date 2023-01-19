@@ -1,3 +1,6 @@
 # Fix-my-code-0
 
-Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+---
+
+NOTE:
+0-fizzbuzz.py and 1-print_square.js need to be executables.
